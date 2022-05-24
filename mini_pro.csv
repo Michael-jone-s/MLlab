@@ -1,0 +1,502 @@
+Timestamp,Name,Gender,group_in_school?,percentage_in_12th,top_skill?,interest ,EAS,pai,wish,Courses
+8/20/2021 20:54:10,Jobel Pio B,Male,Computer Science,81-89,Programming,Computer,Science,100000-200000,own,B. Sc. Computer Science
+8/20/2021 20:57:50,Cyril Richard Jose B,Male,Bio- Math's,81-89,Problem Solving,Chemicals,Science,80000-100000,own,B.Sc. Chemistry
+8/20/2021 21:01:38,GOKUL S,Male,Computer Science,81-89,Programming,Computer,Science,80000-100000,own,B. Sc. Computer Science
+8/20/2021 21:02:37,Praveen,Male,Bio- Math's,71-80,Aptitude,Mathematics,Science,200000-300000,own,B.Sc. Mathematics
+8/20/2021 21:06:47,GOKUL P,Male,Computer Science,81-89,Programming,Computer,Science,200000-300000,own,B. Sc. Computer Science
+8/20/2021 21:08:09,Praveen,Male,Bio- Math's,71-80,Aptitude,Mathematics,Science,80000-100000,parent's wish,B.Sc. Mathematics
+8/20/2021 21:49:48,Sharon Anith,Female,Accounts,90-100,Time Management,Business & Finance,Arts,100000-200000,own,Bachelor of commerce
+8/20/2021 22:20:36,Priya S,Female,Bio- Math's,81-89,Programming,Computer,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+8/20/2021 22:23:53,Sowmiya,Female,Accounts,71-80,Problem Solving,Mathematics,Arts,100000-200000,own,BBA- Bachelor of Business Administration
+8/20/2021 22:27:18,Ajith kumar,Male,Accounts,71-80,Problem Solving,Business & Finance,Arts,50000-80000,own,BBS- Bachelor of Business Studies
+8/20/2021 22:29:39,Reni,Female,Accounts,81-89,Communication Skills in English,Reading novel,Arts,80000-100000,parent's wish,BBA- Bachelor of Business Administration
+8/20/2021 22:30:20,Sumesh ,Male,Computer Science,81-89,Listening,Reading novel,Arts,50000-80000,own,B.Sc.- Physics
+8/22/2021 11:10:53,Celin ,Female,Bio- Math's,81-89,Aptitude,Computer,Engineering,100000-200000,own,B.E. - Electronics and Communication Engineering
+8/27/2021 16:16:17,Antony Christopher M,Male,Computer Science,81-89,Time Management,Computer,Science,100000-200000,own,B.Sc.- Information Technology
+8/27/2021 16:23:12,Thilak,Male,Computer Science,81-89,Programming,Computer,Science,80000-100000,own,B. Sc. Computer Science
+8/27/2021 16:25:51,Praveen A,Male,Bio- Math's,71-80,Problem Solving,Mathematics,Science,80000-100000,own,B.Sc. Mathematics
+8/27/2021 16:28:04,Helen,Female,Bio- Math's,81-89,Communication Skills in English,Reading novel,Arts,200000-300000,own,BA in english
+8/27/2021 16:29:21,Priya S,Female,Bio- Math's,90-100,Communication Skills in English,Chemicals,Engineering,200000-300000,parent's wish,B.E. - Bio Medical Engineering
+8/27/2021 16:31:03,Chris Febin,Male,Computer Science,61-70,Problem Solving,Computer,Science,50000-80000,own,B. Sc. Computer Science
+8/27/2021 16:31:03,Bala P,Male,Vocational,71-80,Listening,Politics,Arts,50000-80000,own,BA in History
+8/27/2021 16:33:15,HILARY MARY W,Female,Bio- Math's,81-89,Listening,Reading novel,Science,200000-300000,own,B.Sc- Interior Design
+8/27/2021 16:34:26,LIGORY W,Female,Bio- Math's,71-80,Designing,Photography,Arts,100000-200000,own,BFA- Bachelor of Fine Arts
+8/27/2021 16:34:54,ESTHAR ANANSIYA M,Female,Bio- Math's,81-89,Time Management,Photography,Science,Below 50000,own,B.Sc. Mathematics
+8/27/2021 18:21:28,VIKRAM S,Male,Bio- Maths,90-100,Aptitude,Mathematics,Science,50000-80000,own,B. Sc. Statistics
+8/27/2021 18:30:25,Sharon Anith ,Female,Accounts,90-100,Time Management,Business & Finance,Arts,50000-80000,own,B com
+8/27/2021 18:42:39,Devi,Female,Bio- Maths,71-80,Programming,Computer,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+8/27/2021 18:47:14,Pramila Rani,Female,Accounts,61-70,Problem Solving,Business & Finance,Arts,50000-80000,own,BBA- Bachelor of Business Administration
+8/27/2021 18:49:55,Ashik,Male,Computer Science,81-89,Programming,Photography,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+8/27/2021 18:51:06,Revanth,Male,Bio- Maths,90-100,Problem Solving,Mathematics,Science,80000-100000,own,B.Sc. Mathematics
+8/27/2021 18:51:11,Dharshi,Female,Bio- Maths,81-89,Programming,Photography,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+8/27/2021 18:52:58,Ashika,Female,Commerce with Computer Science,90-100,Time Management,Marketing,Arts,50000-80000,own,BBA- Bachelor of Business Administration
+8/27/2021 18:53:34,Aravind,Male,Accounts,71-80,Designing,Animation,Science,80000-100000,own,B.Sc- Interior Design
+8/27/2021 18:53:57,Abarna R,Female,Computer Science,81-89,Designing,Photography,Arts,100000-200000,parent's wish,Fashion designing
+8/27/2021 18:54:40,Rahul,Male,Bio- Maths,71-80,Programming,Animation,Engineering,80000-100000,own,B.Tech. - Information Technology
+8/27/2021 18:56:30,Surya,Male,Pure Commerce,71-80,Communication Skills in English,Photography,Arts,100000-200000,own,Integrated Law Course- BA + LL.B
+8/27/2021 18:57:40,Sreesha,Female,Commerce with Computer Science,71-80,Time Management,Marketing,Arts,Below 50000,own,BBA- Bachelor of Business Administration
+8/27/2021 18:58:35,Helana ,Female,Bio- Maths,90-100,Listening,Reading novel,Science,100000-200000,own,B.Sc. Mathematics
+8/27/2021 18:59:00,Rubini,Female,Bio- Maths,61-70,Designing,Animation,Arts,200000-300000,own,BFD- Bachelor of Fashion Designing
+8/27/2021 18:59:25,Nafila,Female,Bio- Maths,81-89,Sketching,Animation,Arts,200000-300000,own,BFD- Bachelor of Fashion Designing
+8/27/2021 18:59:30,Anish,Female,Bio- Maths,81-89,Listening,Science,Science,80000-100000,own,B.Sc.- Information Technology
+8/27/2021 18:59:40,Asrena R,Female,Business maths,81-89,Sketching,Reading novel,Arts,100000-200000,own,Catering
+8/27/2021 19:00:16,Hebin,Male,Computer Science,81-89,Problem Solving,Computer,Engineering,100000-200000,own,B.E. - Electrical and Electronics Engineering
+8/27/2021 19:00:31,Roshini,Female,Bio- Maths,90-100,Problem Solving,Mathematics,Science,Below 50000,own,B.Sc. Mathematics
+8/27/2021 19:00:56,Annu ,Female,Bio- Maths,90-100,Communication Skills in English,Science,Engineering,300000-500000,own,B.E. - Bio Medical Engineering
+8/27/2021 19:01:08,Rohinth,Male,Bio- Maths,81-89,Communication Skills in English,Science,Science,80000-100000,own,BDS- Bachelor of Dental Surgery
+8/27/2021 19:01:44,Akshey,Male,Bio- Maths,90-100,Communication Skills in English,Reading novel,Science,200000-300000,own,B.Sc. Chemistry
+8/27/2021 19:04:46,Vicky,Male,Vocational,71-80,Communication Skills in English,Reading novel,Arts,50000-80000,own,Integrated Law Course- BA + LL.B
+8/27/2021 19:04:59,Sugendran M,Male,Computer Science,90-100,Listening,Computer,Science,50000-80000,own,B. Sc. Computer Science
+8/27/2021 19:06:26,Revathy,Female,Bio- Maths,81-89,Time Management,Science,Science,50000-80000,own,B.Sc- Nursing
+8/27/2021 19:06:46,Ashwin Caleb,Male,Computer Science,71-80,Communication Skills in English,Business & Finance,Science,100000-200000,own,B. Sc. Computer Science
+8/27/2021 19:09:08,Matthew,Male,Commerce with Computer Science,71-80,Aptitude,Computer,Engineering,100000-200000,own,B.Tech. - Information Technology
+8/27/2021 19:10:21,John,Male,Accounts,61-70,Time Management,Business & Finance,Arts,50000-80000,parent's wish,BBA- Bachelor of Business Administration
+8/27/2021 19:13:03,Henry,Male,Computer Science,81-89,Programming,Computer,Engineering,80000-100000,own,B.Tech. - Information Technology
+8/27/2021 19:14:21,Ram,Male,Accounts,71-80,Problem Solving,Mathematics,Science,50000-80000,own,B. Sc. Statistics
+8/27/2021 19:15:19,Anju,Female,Commerce with Computer Science,71-80,Programming,Computer,Science,Below 50000,own,BCA- Bachelor of Computer Applications
+8/27/2021 19:15:40,D NITHISHA ROSE,Female,Bio- Maths,81-89,Sketching,Plants,Science,80000-100000,own,B. Arch- Bachelor of Architecture
+8/27/2021 19:15:52,Rupert,Male,Computer Science,81-89,Problem Solving,Computer,Science,100000-200000,own,B.Sc.- Physics
+8/27/2021 19:18:08,Leenat,Female,Bio- Maths,71-80,Time Management,Photography,Engineering,200000-300000,parent's wish,B.E. - Electronics and Communication Engineering
+8/27/2021 19:18:11,Ramkumar,Male,Bio- Maths,81-89,Time Management,Animals,Engineering,200000-300000,own,B.E. - Bio Medical Engineering
+8/27/2021 19:19:16,Rex,Male,Computer Science,71-80,Problem Solving,Editing,Engineering,200000-300000,own,B.E. - Computer Science and Engineering
+8/27/2021 19:20:23,SHINY,Female,Bio- Maths,81-89,Time Management,Science,Science,100000-200000,own,B.Sc. – Nutrition & Dietetics
+8/27/2021 19:20:40,Mohammad ashik,Male,Bio- Maths,81-89,Time Management,Editing,Science,80000-100000,parent's wish,B.Sc. Chemistry
+8/27/2021 19:25:02,Allan joe,Male,Computer Science,71-80,Sports,Business & Finance,Science,Above 500000,own,B. Sc. Computer Science
+8/27/2021 19:25:41,Santhosh,Male,Computer Science,71-80,Problem Solving,Computer,Science,300000-500000,own,B. Sc. Computer Science
+8/27/2021 19:26:23,Isaak prabhakaran,Male,Computer Science,71-80,Programming,Editing,Science,Above 500000,own,B. Sc. Computer Science
+8/27/2021 19:27:20,Ronaldo,Male,Computer Science,71-80,Problem Solving,Computer,Science,Above 500000,own,B. Sc. Computer Science
+8/27/2021 19:28:13,Ryan sterling,Male,Computer Science,71-80,Programming,Computer,Science,Above 500000,own,B. Sc. Computer Science
+8/27/2021 19:29:35,PRASANNA BALAJI T P,Male,Computer Science,61-70,Programming,Computer,Engineering,50000-80000,own,B.Tech. - Information Technology
+8/27/2021 19:30:38,Charan,Male,Bio- Maths,71-80,Communication Skills in English,Photography,Arts,50000-80000,own,BJMC- Bachelor of Journalism and Mass Communication
+8/27/2021 19:31:33,LOURDU XAVIER J,Male,Bio- Maths,71-80,Time Management,Business & Finance,Science,200000-300000,own,B.Sc. Chemistry
+8/27/2021 19:33:02,Nisha,Female,Bio- Maths,90-100,Listening,Science,Engineering,80000-100000,own,B.E. - Electrical and Electronics Engineering
+8/27/2021 19:33:53,Srihari,Male,Bio- Maths,61-70,Designing,Photography,Engineering,Below 50000,own,B.E. - Mechanical Engineering
+8/27/2021 19:37:03,Ashwin,Male,Bio- Maths,90-100,Problem Solving,Photography,Science,200000-300000,own,B.Sc. Mathematics
+8/27/2021 19:38:09,aishwarya,Female,Bio- Maths,71-80,Communication Skills in English,Science,Science,80000-100000,own,B.Sc. – Nutrition & Dietetics
+8/27/2021 19:38:47,arul,Male,Bio- Maths,71-80,Problem Solving,Mathematics,Engineering,80000-100000,own,B.E. - Mechanical Engineering
+8/27/2021 19:39:29,gunaa,Male,Computer Science,81-89,Listening,Reading novel,Arts,50000-80000,own,BBA- Bachelor of Business Administration
+8/27/2021 19:40:21,unish,Male,Computer Science,61-70,Sketching,Photography,Engineering,100000-200000,parent's wish,B.Tech. - Artificial Intelligence & Data Science
+8/27/2021 19:41:08,divya,Female,Bio- Maths,61-70,Designing,Animation,Science,200000-300000,parent's wish,B.Sc. – Nutrition & Dietetics
+8/27/2021 19:41:43,Joshy Sebastian,Male,Bio- Maths,90-100,Listening,Science,Science,80000-100000,own,B.Sc.- Physics
+8/27/2021 19:41:54,Cyril ,Male,Bio- Maths,81-89,Listening,Science,Science,50000-80000,own,B.Sc. Mathematics
+8/27/2021 19:43:46,Thomas d ,Male,Computer Science,90-100,Mentalism,Mathematics,Science,100000-200000,own,B.Sc.- Physics
+8/27/2021 19:47:51,Joel,Male,Computer Science,71-80,Driving,Business & Finance,Science,200000-300000,own,B.Sc. Chemistry
+8/27/2021 19:50:53,Justin E,Male,Computer Science,81-89,Communication Skills in English,Mathematics,Science,Below 50000,own,B.Sc. Mathematics
+8/27/2021 19:51:33,Vishnu,Male,Computer Science,81-89,Programming,Computer,Engineering,50000-80000,own,B.Tech. - Artificial Intelligence & Data Science
+8/27/2021 19:51:55,Justin E,Male,Bio- Maths,71-80,Aptitude,Photography,Science,50000-80000,own,B. Sc. Statistics
+8/27/2021 19:52:03,Pranav S,Male,Computer Science,71-80,Aptitude,Animation,Engineering,Below 50000,own,B.Tech. - Artificial Intelligence & Data Science
+8/27/2021 20:08:50,ASHWIN BRUNO M,Male,Bio- Maths,71-80,Aptitude,Science,Science,80000-100000,own,B.Sc.- Physics
+8/27/2021 20:29:49,JOSON,Male,Computer Science,71-80,Listening,Electrical equipment,Science,Below 50000,parent's wish,B.Sc.- Physics
+8/27/2021 20:43:33,Novin Mario,Male,Pure Commerce,61-70,Time Management,Marketing,Arts,Below 50000,own,BBA- Bachelor of Business Administration
+8/27/2021 20:55:12,Mary Johncy,Female,Zoology,61-70,Listening,Animals,Science,50000-80000,own,B. Sc. Zoology
+8/27/2021 21:01:09,Astin FERNANDO,Male,Computer Science,71-80,Time Management,Computer,Arts,100000-200000,parent's wish,BMS- Bachelor of Management Science
+8/27/2021 21:05:56,Udhayan,Male,Bio- Maths,90-100,Problem Solving,Science,Science,300000-500000,own,B.Sc.- Physics
+8/27/2021 21:20:20,Dhoni,Male,Accounts,50-60,Time Management,Reading novel,Arts,100000-200000,own,BSW- Bachelor of Social Work
+8/27/2021 21:20:38,Parthiban M,Male,Accounts,50-60,Time Management,Business & Finance,Arts,Below 50000,own,BFA- Bachelor of Fine Arts
+8/27/2021 21:20:44,Khabib N,Male,Accounts,61-70,Time Management,Business & Finance,Arts,Above 500000,own,BFA- Bachelor of Fine Arts
+8/27/2021 21:35:49,Aarish,Male,Computer Science,81-89,Problem Solving,Science,Engineering,80000-100000,own,B.Tech. - Artificial Intelligence & Data Science
+8/27/2021 21:36:53,Vengatesh,Male,Bio- Maths,71-80,Communication Skills in English,Electrical equipment,Engineering,80000-100000,own,B.E. - Electrical and Electronics Engineering
+8/27/2021 21:37:43,Prasanna,Male,Bio- Maths,81-89,Aptitude,Mathematics,Engineering,100000-200000,own,B.E. - Mechanical Engineering
+8/27/2021 21:40:00,Vignesh,Male,Computer Science,81-89,Communication Skills in English,Photography,Science,100000-200000,own,BCA- Bachelor of Computer Applications
+8/27/2021 21:41:32,Dhaya,Male,Bio- Maths,81-89,Programming,Data science and DeepLearning,Engineering,Below 50000,own,B.Tech. - Artificial Intelligence & Data Science
+8/27/2021 21:42:39,Durga,Female,Computer Science,81-89,Sketching,Computer,Science,50000-80000,own,B.Sc. Mathematics
+8/27/2021 21:44:02,Balaji,Male,Bio- Maths,81-89,Programming,Computer,Science,80000-100000,own,B.Sc.- Physics
+8/27/2021 21:45:41,Chandru,Male,Bio- Maths,81-89,Aptitude,Electrical equipment,Engineering,80000-100000,own,B.E. - Electronics and Communication Engineering
+8/27/2021 21:47:33,Rahul,Male,Bio- Maths,81-89,Problem Solving,Plants,Engineering,80000-100000,own,B.E. - Bio Medical Engineering
+8/27/2021 22:01:03,Remie A,Female,Bio- Maths,81-89,Communication Skills in English,Reading novel,Arts,300000-500000,own,Aviation Courses
+8/27/2021 22:02:12,Bhuvana S,Female,Bio- Maths,61-70,Problem Solving,Science,Science,50000-80000,parent's wish,B.Sc- Nursing
+8/27/2021 22:03:28,Stephen ,Male,Bio- Maths,90-100,Problem Solving,Business & Finance,Arts,100000-200000,own,BTTM- Bachelor of Travel and Tourism Management
+8/27/2021 22:05:35,Nandhini S,Female,Bio- Maths,61-70,Listening,Business & Finance,Arts,100000-200000,own,BA English
+8/27/2021 22:13:49,Mc Constin ,Male,Computer Science,71-80,Designing,Editing,Arts,50000-80000,parent's wish,BSC IT&M
+8/27/2021 22:14:30,Iswarya K,Female,Bio- Maths,90-100,Aptitude,Mathematics,Science,50000-80000,parent's wish,B.Sc. Mathematics
+8/27/2021 22:15:38,Britta reni A,Female,Bio- Maths,81-89,Aptitude,Mathematics,Science,80000-100000,own,B.Sc. Mathematics
+8/27/2021 22:15:59,Rajesh,Male,Bio- Maths,61-70,Programming,Computer,Science,200000-300000,own,B. Sc. Computer Science
+8/27/2021 22:23:46,Priya,Female,Computer Science,71-80,Problem Solving,Computer,Science,80000-100000,own,B. Sc. Computer Science
+8/27/2021 23:06:49,Raghul Kumar,Male,Bio- Maths,61-70,Time Management,Science,Science,50000-80000,own,B.Sc. Chemistry
+8/28/2021 1:19:26,Joy,Male,Computer Science,71-80,Problem Solving,Computer,Science,50000-80000,own,B. Sc. Statistics
+8/28/2021 8:55:21,Senthil Kumar J ,Male,Computer Science,71-80,Communication Skills in English,Politics,Arts,Below 50000,own,Integrated Law Course- BA + LL.B
+8/28/2021 9:27:55,Dhivya Prashanth G,Male,Computer Science,61-70,Listening,Animals,Science,80000-100000,parent's wish,B.Sc. Mathematics
+8/28/2021 9:58:25,Pradeep P,Male,Bio- Maths,71-80,Listening,Chemicals,Science,80000-100000,own,B.Sc. Chemistry
+8/28/2021 10:00:04,Dinesh M,Male,Bio- Maths,81-89,Communication Skills in English,Computer,Science,100000-200000,own,B. Sc. Computer Science
+8/28/2021 10:01:45,Ajith S,Male,Bio- Maths,71-80,Time Management,Computer,Engineering,100000-200000,own,B.E. - Computer Science and Engineering
+8/28/2021 10:02:37,DAVID J,Male,Bio- Maths,71-80,Aptitude,Mathematics,Science,50000-80000,own,B.Sc. Mathematics
+8/28/2021 10:05:15,Bharathi R,Female,Bio- Maths,71-80,Aptitude,Politics,Arts,50000-80000,parent's wish,BA in History
+8/28/2021 10:07:41,Mathumitha,Female,Commerce with Computer Science,71-80,Listening,Politics,Arts,Below 50000,parent's wish,BJMC- Bachelor of Journalism and Mass Communication
+8/28/2021 10:08:37,Dhinesh,Male,Computer Science,61-70,Time Management,Marketing,Engineering,80000-100000,parent's wish,B.Tech. - Information Technology
+8/28/2021 10:09:36,Dizho.A,Male,Computer Science,71-80,Problem Solving,Mathematics,Science,50000-80000,parent's wish,B.Sc. Mathematics
+8/28/2021 10:14:17,Beno A,Male,Bio- Maths,71-80,Listening,Science,Science,50000-80000,own,B.Sc.- Physics
+8/28/2021 10:16:55,Amaria Bonsi Navis l,Female,Bio- Maths,81-89,Listening,Science,Science,100000-200000,own,B.Sc.- Physics
+8/28/2021 10:18:25,Benusiga,Male,Computer Science,81-89,Designing,Marketing,Arts,Above 500000,own,Management
+8/28/2021 10:22:03,Mani Bharathi.S,Male,Bio- Maths,90-100,Listening,Computer,Science,50000-80000,own,B.Sc.- Physics
+8/28/2021 10:23:09,Mac millan,Male,Vocational,71-80,Problem Solving,Animals,Arts,50000-80000,own,BBA- Bachelor of Business Administration
+8/28/2021 10:23:56,Mani Bharathi,Male,Bio- Maths,90-100,Listening,Science,Arts,50000-80000,own,English literature
+8/28/2021 10:24:58,Divya Bharathi,Female,Bio- Maths,81-89,Listening,Politics,Arts,50000-80000,own,BSW- Bachelor of Social Work
+8/28/2021 10:28:09,GOWTHAM,Male,Computer Science,71-80,Time Management,Mathematics,Science,50000-80000,own,B.Sc. Mathematics
+8/28/2021 10:37:33,Valan,Male,Computer Science,81-89,Aptitude,Mathematics,Science,50000-80000,own,B.Sc. Mathematics
+8/28/2021 10:38:07,Kiraswin,Male,Computer Science,71-80,Programming,Computer,Science,50000-80000,parent's wish,BCA- Bachelor of Computer Applications
+8/28/2021 10:45:27,Dravid,Male,Computer Science,61-70,Programming,Computer,Science,100000-200000,own,B. Sc. Computer Science
+8/28/2021 10:45:38,Gokul,Male,Pure Commerce,81-89,Problem Solving,Marketing,Science,100000-200000,own,B. Com
+8/28/2021 10:47:24,Sunil,Male,Pure Commerce,81-89,Communication Skills in English,Business & Finance,Arts,80000-100000,parent's wish,BBA- Bachelor of Business Administration
+8/28/2021 10:48:40,Naveen kumar,Male,Computer Science,71-80,Aptitude,Politics,Engineering,100000-200000,own,B.E. - Mechanical Engineering
+8/28/2021 10:49:01,Badri Narayana M,Male,Bio- Maths,81-89,Problem Solving,Forensic science ,Science,200000-300000,own,Forensic science
+8/28/2021 10:49:14,Dharshan,Male,Commerce with Computer Science,81-89,Designing,Electrical equipment,Engineering,200000-300000,parent's wish,B.Tech. - Artificial Intelligence & Data Science
+8/28/2021 10:51:56,Shreya,Female,Bio- Maths,71-80,Acting,Acting,Science,Above 500000,own,B. Sc Visual Communication
+8/28/2021 11:00:59,M.Balaji,Male,Bio- Maths,71-80,Aptitude,Mathematics,Science,100000-200000,own,B.Sc. Mathematics
+8/28/2021 11:01:55,Sneka k,Female,Bio- Maths,71-80,Aptitude,Chemicals,Science,Below 50000,own,B.Sc. Chemistry
+8/28/2021 11:04:52,David Johnson M,Male,Computer Science,90-100,Time Management,Photography,Science,50000-80000,own,B.Sc.- Physics
+8/28/2021 11:14:16,Rex Alan,Male,Computer Science,81-89,Programming,Computer,Science,300000-500000,own,BCA- Bachelor of Computer Applications
+8/28/2021 11:24:52,STARJAN J,Male,Bio- Maths,81-89,Listening,Computer,Science,100000-200000,own,B.Sc. Mathematics
+8/28/2021 11:31:04,V.Gnanasekaran,Male,Commerce with Computer Science,61-70,Listening,Computer,Arts,100000-200000,own,B.Com (CA)
+8/28/2021 11:39:35,Jones leo L,Male,Bio- Maths,81-89,Designing,Plants,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+8/28/2021 11:42:24,Josva,Male,Computer Science,81-89,Problem Solving,Computer,Engineering,Below 50000,own,B.E. - Computer Science and Engineering
+8/28/2021 11:43:56,Ananth,Male,Bio- Maths,81-89,Communication Skills in English,Mathematics,Arts,50000-80000,own,Bachelor of Performing Arts
+8/28/2021 11:46:28,Kishore,Male,Computer Science,81-89,Problem Solving,Computer,Engineering,80000-100000,own,B.Tech. - Information Technology
+8/28/2021 11:47:29,Rajan,Male,Accounts,71-80,Time Management,Marketing,Arts,80000-100000,own,BBA- Bachelor of Business Administration
+8/28/2021 11:48:45,Nixon,Male,Commerce with Computer Science,90-100,Programming,Computer,Science,50000-80000,own,BCA- Bachelor of Computer Applications
+8/28/2021 12:22:13,Maria Selvaraj S,Male,Computer Science,81-89,Aptitude,Chemicals,Science,50000-80000,own,B.Sc. Chemistry
+8/28/2021 13:27:31,Vishnu Kumar,Male,Computer Science,71-80,Programming,Computer,Engineering,100000-200000,own,B.E. - Electronics and Communication Engineering
+8/28/2021 13:34:15,Lordson,Male,Bio- Maths,71-80,Time Management,Photography,Arts,50000-80000,own,Integrated Law Course- BA + LL.B
+8/28/2021 13:54:07,R. ANBU VIJAY ,Male,Computer Science,50-60,Listening,Photography,Engineering,80000-100000,parent's wish,B.E. - Electronics and Communication Engineering
+8/28/2021 17:26:09,Ashwin,Male,Bio- Maths,61-70,Listening,Politics,Arts,Above 500000,own,Bachelor of Performing Arts
+8/28/2021 18:28:03,Rajkumar,Male,Bio- Maths,61-70,Time Management,Marketing,Engineering,Below 50000,own,B.E. - Mechanical Engineering
+8/28/2021 18:47:55,a.lurthu valan arasu,Male,Bio- Maths,61-70,Programming,Computer,Arts,Below 50000,own,B.sc. computer science
+8/28/2021 21:16:41,Maxvel,Male,Computer Science,71-80,Communication Skills in English,Politics,Science,300000-500000,own,B.Sc. Mathematics
+8/28/2021 21:36:34,Harini,Female,Bio- Maths,61-70,Communication Skills in English,Science,Arts,100000-200000,own,BCA- Bachelor of Computer Applications
+8/29/2021 11:17:44,Vince,Male,Bio- Maths,81-89,Listening,Business & Finance,Science,50000-80000,own,B.Sc.- Physics
+8/30/2021 11:44:27,Woodley,Male,Bio- Maths,71-80,Listening,Plants,Science,Above 500000,own,B.Sc. – Nutrition & Dietetics
+8/30/2021 11:47:59,Jeeva C,Male,Commerce with Computer Science,61-70,Listening,Reading novel,Arts,50000-80000,own,BSW- Bachelor of Social Work
+8/30/2021 11:49:30,Siva Kumar,Male,Accounts,61-70,Communication Skills in English,Animals,Science,80000-100000,own,B. Sc. Zoology
+8/30/2021 11:52:42,Sarmila K,Female,Bio- Maths,61-70,Designing,Animation,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+8/30/2021 11:54:59,Hariesh S,Male,Vocational,50-60,Listening,Politics,Arts,50000-80000,own,BA in History
+8/30/2021 11:59:59,regina,Female,Bio- Maths,61-70,Communication Skills in English,Chemicals,Engineering,50000-80000,own,B.E. - Bio Medical Engineering
+8/30/2021 12:03:34,Bavana ,Female,Computer Science,90-100,Programming,Science,Engineering,200000-300000,own,B.Tech. - Information Technology
+09-03-2021 10:01,Ajith,Male,Commerce with Computer Science,71-80,Programming,Marketing,Science,200000-300000,own,BCA- Bachelor of Computer Applications
+09-03-2021 10:02,Sudalai,Male,Bio- Maths,71-80,Communication Skills in English,Science,Science,100000-200000,own,B.Sc- Nursing
+09-03-2021 10:04,Pandiyammal,Female,Bio- Maths,71-80,Communication Skills in English,Science,Science,Below 50000,parent's wish,B.Sc- Nursing
+09-03-2021 10:06,Vettikeli,Male,Vocational,71-80,Communication Skills in English,Editing,Arts,Below 50000,own,Bachelor of Design (B. Design)
+09-03-2021 10:07,Vembuli,Male,Accounts,81-89,Problem Solving,Marketing,Science,Below 50000,parent's wish,B. Sc. Statistics
+09-03-2021 10:12,Vadivukarasi,Female,Computer Science,61-70,Programming,Computer,Science,Below 50000,parent's wish,B.Sc.- Information Technology
+09-03-2021 10:13,Maara,Male,Pure Commerce,71-80,Time Management,Marketing,Engineering,80000-100000,parent's wish,B.E. - Computer Science and Engineering
+09-03-2021 10:15,Anbukkarasi,Female,Bio- Maths,50-60,Communication Skills in English,Science,Science,Below 50000,parent's wish,BPharma- Bachelor of Pharmacy
+09-03-2021 10:18,Guna,Male,Commerce with Computer Science,81-89,Time Management,Business & Finance,Arts,Below 50000,parent's wish,BA in Economics
+09-03-2021 10:20,Senpagam,Female,Accounts,71-80,Communication Skills in English,Marketing,Arts,100000-200000,own,BBS- Bachelor of Business Studies
+09-03-2021 10:24,SJ Suriya,Male,Vocational,61-70,Communication Skills in English,Electrical equipment,Engineering,Below 50000,parent's wish,B.E. - Electrical and Electronics Engineering
+09-03-2021 10:27,Modi,Male,Pure Commerce,50-60,Problem Solving,Politics,Arts,Below 50000,own,Integrated Law Course- BA + LL.B
+09-03-2021 10:28,Indira,Female,Vocational,61-70,Problem Solving,Politics,Arts,80000-100000,parent's wish,BJMC- Bachelor of Journalism and Mass Communication
+09-03-2021 10:31,Edappadi,Male,Computer Science,81-89,Programming,Computer,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+09-03-2021 10:32,Jeya,Female,Bio- Maths,90-100,Communication Skills in English,Plants,Science,80000-100000,own,B. Arch- Bachelor of Architecture
+09-05-2021 20:43,Dhavithu,Male,Bio- Maths,50-60,Communication Skills in English,Chemicals,Science,50000-80000,own,B.Sc. Chemistry
+09-05-2021 20:44,Arokiyam,Male,Computer Science,71-80,Problem Solving,Computer,Engineering,50000-80000,parent's wish,B.E. - Computer Science and Engineering
+09-07-2021 09:53,Divya,Female,Commerce with Computer Science,71-80,Programming,Business & Finance,Engineering,100000-200000,own,B.Tech. - Information Technology
+09-07-2021 09:59,Deva,Male,Accounts,71-80,Communication Skills in English,Business & Finance,Arts,50000-80000,own,BA in Economics
+09-07-2021 10:01,Rahavi,Female,Computer Science,71-80,Programming,Computer,Engineering,80000-100000,parent's wish,B.E. - Computer Science and Engineering
+09-07-2021 10:05,Subiksan,Male,Vocational,71-80,Communication Skills in English,Mathematics,Science,50000-80000,own,B.Sc. Mathematics
+09-07-2021 10:06,Gopi,Male,Pure Commerce,71-80,Time Management,Marketing,Arts,Below 50000,parent's wish,BA in Economics
+09-07-2021 10:07,Ladha,Female,Accounts,71-80,Communication Skills in English,Marketing,Arts,50000-80000,parent's wish,BA in Economics
+09-07-2021 10:08,Nayan,Female,Vocational,71-80,Designing,Photography,Arts,50000-80000,own,Bachelor of Design (B. Design)
+09-07-2021 10:17,Bavi,Female,Computer Science,90-100,Programming,Computer,Science,Below 50000,parent's wish,B. Sc. Computer Science
+09-07-2021 10:20,Kavi,Male,Commerce with Computer Science,71-80,Communication Skills in English,Marketing,Arts,Below 50000,own,BA in Economics
+09-07-2021 10:24,Kaviya,Female,Accounts,71-80,Communication Skills in English,Marketing,Arts,Below 50000,parent's wish,BA in Economics
+09-07-2021 10:25,Jothiga,Female,Bio- Maths,81-89,Communication Skills in English,Science,Science,Below 50000,parent's wish,BPharma- Bachelor of Pharmacy
+09-07-2021 10:27,Suriyan,Male,Bio- Maths,81-89,Communication Skills in English,Marketing,Arts,Below 50000,own,BA in Economics
+09-07-2021 10:29,Gabriela,Female,Pure Commerce,71-80,Problem Solving,Business & Finance,Arts,50000-80000,own,BA in Economics
+09-07-2021 10:30,Kabilan,Male,Bio- Maths,81-89,Communication Skills in English,Science,Science,Below 50000,parent's wish,B.Sc. Mathematics
+09-07-2021 10:30,Sabi,Female,Computer Science,71-80,Programming,Mathematics,Science,Below 50000,own,B.Sc. Mathematics
+09-07-2021 10:34,Gobis,Male,Bio- Maths,71-80,Communication Skills in English,Mathematics,Science,Below 50000,parent's wish,B.Sc. Mathematics
+09-07-2021 10:36,Devi,Female,Pure science,81-89,Communication Skills in English,Medical,Science,Below 50000,own,B.Sc- Nursing
+09-07-2021 10:37,Juli,Female,Commerce with Computer Science,81-89,Problem Solving,Computer,Engineering,100000-200000,own,B.E. - Computer Science and Engineering
+09-07-2021 10:38,Charles,Male,Accounts,71-80,Communication Skills in English,Business & Finance,Arts,Below 50000,parent's wish,BBS- Bachelor of Business Studies
+09-07-2021 19:37,Megha Ghosh,Female,Computer Science,81-89,Communication Skills in English,Electrical equipment,Engineering,100000-200000,own,B.E. - Electronics and Communication Engineering
+09-08-2021 10:37,Revathy,Female,Bio- Maths,90-100,Aptitude,Mathematics,Science,80000-100000,own,B.E. - Electronics and Communication Engineering
+9/14/2021 14:13:55,Govindha,Male,Computer Science,81-89,Programming,Computer,Engineering,50000-80000,own,B.Sc. Mathematics
+9/14/2021 14:14:57,Anbarasu,Male,Accounts,71-80,Communication Skills in English,Marketing,Arts,50000-80000,own,B.Tech. - Information Technology
+9/14/2021 14:17:29,Rabert,Male,Pure Commerce,71-80,Time Management,Marketing,Arts,80000-100000,parent's wish,BBA- Bachelor of Business Administration
+9/14/2021 14:18:31,Ragavan,Male,Computer Science,71-80,Programming,Mathematics,Engineering,80000-100000,parent's wish,B.E. - Computer Science and Engineering
+9/14/2021 14:23:09,Rajeshwary,Female,Bio- Maths,81-89,Communication Skills in English,Mathematics,Science,Below 50000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:31,Kanna,Male,Bio- Maths,81-89,Programming,Computer,Arts,100000-200000,parent's wish,B.sc. computer science
+9/14/2021 14:18:31,kaviya sri,Female,Computer Science,81-89,Communication Skills in English,Politics,Science,50000-80000,own,B.Sc. Mathematics
+9/14/2021 14:18:31,Sabari,Male,Bio- Maths,71-80,Communication Skills in English,Science,Arts,80000-100000,parent's wish,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:32,Santhiyagooo,Male,Bio- Maths,71-80,Time Management,Animals,Engineering,50000-80000,own,B.E. - Bio Medical Engineering
+9/14/2021 14:18:33,Rakesh,Male,Computer Science,71-80,Problem Solving,Editing,Engineering,100000-200000,parent's wish,B.E. - Computer Science and Engineering
+9/14/2021 14:18:34,Abinesh,Male,Bio- Maths,71-80,Time Management,Science,Science,100000-200000,own,B.Sc. – Nutrition & Dietetics
+9/14/2021 14:18:35,Gokula,Female,Bio- Maths,61-70,Time Management,Editing,Science,80000-100000,own,B.Sc. Chemistry
+9/14/2021 14:18:36,Karthiga,Female,Computer Science,61-70,Sports,Business & Finance,Science,80000-100000,own,B. Sc. Computer Science
+9/14/2021 14:18:37,Ajith A,Male,Computer Science,71-80,Problem Solving,Computer,Science,200000-300000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:38,Akave,Male,Computer Science,90-100,Programming,Editing,Science,200000-300000,own,B. Sc. Computer Science
+9/14/2021 14:18:39,Olivia,Female,Computer Science,50-60,Problem Solving,Computer,Science,50000-80000,own,B. Sc. Computer Science
+9/14/2021 14:18:40,Oliver,Male,Computer Science,50-60,Programming,Computer,Science,50000-80000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:41,Amelia,Female,Computer Science,61-70,Programming,Computer,Engineering,200000-300000,own,B.Tech. - Information Technology
+9/14/2021 14:18:42,George,Male,Bio- Maths,81-89,Communication Skills in English,Photography,Arts,100000-200000,parent's wish,BJMC- Bachelor of Journalism and Mass Communication
+9/14/2021 14:18:43,Isla,Female,Pure Commerce,71-80,Time Management,Marketing,Arts,Below 50000,parent's wish,BBA- Bachelor of Business Administration
+9/14/2021 14:18:44,Harry,Male,Zoology,81-89,Listening,Animals,Science,50000-80000,own,B. Sc. Zoology
+9/14/2021 14:18:45,Ava,Female,Computer Science,81-89,Time Management,Computer,Arts,50000-80000,parent's wish,BMS- Bachelor of Management Science
+9/14/2021 14:18:46,Noah,Male,Bio- Maths,81-89,Problem Solving,Science,Science,50000-80000,own,B.Sc.- Physics
+9/14/2021 14:18:47,Emily,Female,Accounts,81-89,Time Management,Reading novel,Arts,50000-80000,parent's wish,BSW- Bachelor of Social Work
+9/14/2021 14:18:48,Jack,Male,Accounts,81-89,Time Management,Business & Finance,Arts,50000-80000,parent's wish,BFA- Bachelor of Fine Arts
+9/14/2021 14:18:49,Sophia,Female,Accounts,81-89,Time Management,Business & Finance,Arts,80000-100000,own,BFA- Bachelor of Fine Arts
+9/14/2021 14:18:50,Charlie,Male,Computer Science,81-89,Problem Solving,Science,Engineering,50000-80000,own,B.Tech. - Artificial Intelligence & Data Science
+9/14/2021 14:18:51,Grace,Female,Bio- Maths,81-89,Communication Skills in English,Electrical equipment,Engineering,50000-80000,parent's wish,B.E. - Electrical and Electronics Engineering
+9/14/2021 14:18:52,Leo,Male,Bio- Maths,61-70,Aptitude,Mathematics,Engineering,80000-100000,own,B.E. - Mechanical Engineering
+9/14/2021 14:18:53,Mia,Female,Computer Science,90-100,Communication Skills in English,Photography,Science,80000-100000,parent's wish,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:54,Jacob,Male,Computer Science,61-70,Programming,Computer,Science,80000-100000,own,B. Sc. Computer Science
+9/14/2021 14:18:55,Poppy,Female,Bio- Math's,71-80,Problem Solving,Chemicals,Science,50000-80000,own,B.Sc. Chemistry
+9/14/2021 14:18:56,Freddie,Male,Computer Science,90-100,Programming,Computer,Science,50000-80000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:57,Ella?,Female,Bio- Math's,81-89,Aptitude,Mathematics,Science,200000-300000,own,B.Sc. Mathematics
+9/14/2021 14:18:58,Alfie?,Male,Computer Science,61-70,Programming,Computer,Science,200000-300000,own,B. Sc. Computer Science
+9/14/2021 14:18:59,Aabhas,Male,Bio- Math's,81-89,Aptitude,Mathematics,Science,Below 50000,own,B.Sc. Mathematics
+9/14/2021 14:18:60,AadalAlagi,Female,Accounts,71-80,Time Management,Business & Finance,Arts,Below 50000,own,Bachelor of commerce
+9/14/2021 14:18:61,Aabheer,Male,Bio- Math's,71-80,Programming,Computer,Engineering,Below 50000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:62,AadalArasi,Female,Accounts,81-89,Problem Solving,Mathematics,Arts,80000-100000,own,BBA- Bachelor of Business Administration
+9/14/2021 14:18:63,Aacharya,Male,Accounts,81-89,Problem Solving,Business & Finance,Arts,Below 50000,own,BBS- Bachelor of Business Studies
+9/14/2021 14:18:64,AadalChelvi,Female,Accounts,71-80,Communication Skills in English,Reading novel,Arts,Below 50000,own,BBA- Bachelor of Business Administration
+9/14/2021 14:18:65,Aachman,Male,Computer Science,81-89,Listening,Reading novel,Arts,100000-200000,own,B.Sc.- Physics
+9/14/2021 14:18:66,Aachuthan,Male,Bio- Math's,90-100,Aptitude,Computer,Engineering,Below 50000,own,B.E. - Electronics and Communication Engineering
+9/14/2021 14:18:67,Aadalarasu,Male,Computer Science,81-89,Time Management,Computer,Science,Below 50000,own,B.Sc.- Information Technology
+9/14/2021 14:18:68,Aadavan,Male,Computer Science,71-80,Programming,Computer,Science,80000-100000,own,B. Sc. Computer Science
+9/14/2021 14:18:69,Aadhar,Male,Bio- Math's,71-80,Problem Solving,Mathematics,Science,50000-80000,own,B.Sc. Mathematics
+9/14/2021 14:18:70,Aadhavan,Male,Bio- Math's,71-80,Communication Skills in English,Reading novel,Arts,80000-100000,own,BA in english
+9/14/2021 14:18:71,Aadhi,Male,Bio- Math's,81-89,Communication Skills in English,Chemicals,Engineering,50000-80000,own,B.E. - Bio Medical Engineering
+9/14/2021 14:18:72,Aadhirai,Male,Computer Science,81-89,Problem Solving,Computer,Science,50000-80000,own,B. Sc. Computer Science
+9/14/2021 14:18:73,Aadhish,Male,Vocational,81-89,Listening,Politics,Arts,100000-200000,parent's wish,BA in History
+9/14/2021 14:18:74,Aadi,Male,Bio- Math's,71-80,Listening,Reading novel,Science,50000-80000,own,B.Sc- Interior Design
+9/14/2021 14:18:75,Aadidev,Male,Bio- Math's,71-80,Designing,Photography,Arts,80000-100000,own,BFA- Bachelor of Fine Arts
+9/14/2021 14:18:76,Aadijay,Male,Bio- Math's,71-80,Time Management,Photography,Science,50000-80000,own,B.Sc. Mathematics
+9/14/2021 14:18:77,Aadimoolan,Male,Computer Science,71-80,Communication Skills in English,Photography,Science,Below 50000,own,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:78,Aadish,Male,Bio- Maths,61-70,Programming,Data science and DeepLearning,Engineering,50000-80000,own,B.Tech. - Artificial Intelligence & Data Science
+9/14/2021 14:18:79,AadalNangai,Female,Computer Science,61-70,Sketching,Computer,Science,50000-80000,own,B.Sc. Mathematics
+9/14/2021 14:18:80,Aadhila,Female,Bio- Maths,71-80,Programming,Computer,Science,Below 50000,own,B.Sc.- Physics
+9/14/2021 14:18:81,Aaditri,Female,Bio- Maths,90-100,Aptitude,Electrical equipment,Engineering,Below 50000,own,B.E. - Electronics and Communication Engineering
+9/14/2021 14:18:82,Aadrika,Female,Bio- Maths,81-89,Problem Solving,Plants,Engineering,Below 50000,own,B.E. - Bio Medical Engineering
+9/14/2021 14:18:83,AaduMayil,Female,Bio- Maths,90-100,Communication Skills in English,Reading novel,Arts,Below 50000,own,Aviation Courses
+9/14/2021 14:18:84,Aadvika,Female,Bio- Maths,71-80,Problem Solving,Science,Science,Below 50000,own,B.Sc- Nursing
+9/14/2021 14:18:85,Aaghnya,Female,Bio- Maths,90-100,Problem Solving,Business & Finance,Arts,Below 50000,own,BTTM- Bachelor of Travel and Tourism Management
+9/14/2021 14:18:86,Aahna,Female,Bio- Maths,81-89,Listening,Business & Finance,Arts,50000-80000,parent's wish,BA English
+9/14/2021 14:18:87,Aakaanksha,Female,Computer Science,71-80,Designing,Editing,Arts,Below 50000,parent's wish,BSC IT&M
+9/14/2021 14:18:88,Aakarshika,Female,Bio- Maths,71-80,Aptitude,Mathematics,Science,Below 50000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:89,Aariketh,Male,Bio- Maths,61-70,Aptitude,Mathematics,Science,Below 50000,own,B.Sc. Mathematics
+9/14/2021 14:18:90,Aarish,Male,Bio- Maths,81-89,Programming,Computer,Science,Below 50000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:91,Aarit,Male,Computer Science,71-80,Problem Solving,Computer,Science,100000-200000,own,B. Sc. Computer Science
+9/14/2021 14:18:92,Aariv,Male,Bio- Maths,71-80,Time Management,Science,Science,Below 50000,parent's wish,B.Sc. Chemistry
+9/14/2021 14:18:93,Aaron,Male,Computer Science,81-89,Problem Solving,Computer,Science,100000-200000,own,B. Sc. Statistics
+9/14/2021 14:18:94,Aarpit,Male,Computer Science,81-89,Communication Skills in English,Politics,Arts,80000-100000,own,Integrated Law Course- BA + LL.B
+9/14/2021 14:18:95,Aarsh,Male,Computer Science,71-80,Listening,Animals,Science,50000-80000,own,B.Sc. Mathematics
+9/14/2021 14:18:96,Aarshin,Male,Bio- Maths,81-89,Listening,Chemicals,Science,50000-80000,parent's wish,B.Sc. Chemistry
+9/14/2021 14:18:97,Aarth,Male,Bio- Maths,71-80,Communication Skills in English,Computer,Science,80000-100000,own,B. Sc. Computer Science
+9/14/2021 14:18:98,Aarush,Male,Commerce with Computer Science,81-89,Time Management,Business & Finance,Arts,80000-100000,own,BA in Economics
+9/14/2021 14:18:99,Agalvili,Female,Accounts,81-89,Communication Skills in English,Marketing,Arts,Below 50000,parent's wish,BBS- Bachelor of Business Studies
+9/14/2021 14:18:100,Aganagai,Female,Vocational,71-80,Communication Skills in English,Electrical equipment,Engineering,100000-200000,own,B.E. - Electrical and Electronics Engineering
+9/14/2021 14:18:101,Ahila,Female,Pure Commerce,71-80,Problem Solving,Politics,Arts,50000-80000,parent's wish,Integrated Law Course- BA + LL.B
+9/14/2021 14:18:102,Ahilaandeswari,Female,Vocational,71-80,Problem Solving,Politics,Arts,80000-100000,parent's wish,BJMC- Bachelor of Journalism and Mass Communication
+9/14/2021 14:18:103,Aithu,Female,Computer Science,71-80,Programming,Computer,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:104,Aiyai,Female,Bio- Maths,71-80,Communication Skills in English,Plants,Science,100000-200000,parent's wish,B. Arch- Bachelor of Architecture
+9/14/2021 14:18:105,Aiyana,Female,Bio- Maths,90-100,Communication Skills in English,Chemicals,Science,100000-200000,own,B.Sc. Chemistry
+9/14/2021 14:18:106,Akai,Female,Computer Science,90-100,Problem Solving,Computer,Engineering,80000-100000,parent's wish,B.E. - Computer Science and Engineering
+9/14/2021 14:18:107,Akila,Female,Commerce with Computer Science,81-89,Programming,Business & Finance,Engineering,80000-100000,parent's wish,B.Tech. - Information Technology
+9/14/2021 14:18:108,Akshaana,Female,Accounts,90-100,Communication Skills in English,Business & Finance,Arts,200000-300000,own,BA in Economics
+9/14/2021 14:18:109,Alagammai,Female,Computer Science,71-80,Programming,Computer,Engineering,200000-300000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:110,Alagarasi,Female,Vocational,90-100,Communication Skills in English,Mathematics,Science,50000-80000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:111,Alagi,Female,Pure Commerce,81-89,Time Management,Marketing,Arts,50000-80000,own,BA in Economics
+9/14/2021 14:18:112,Alagini,Female,Accounts,71-80,Communication Skills in English,Marketing,Arts,Below 50000,parent's wish,BA in Economics
+9/14/2021 14:18:113,Alagu,Female,Vocational,71-80,Designing,Photography,Arts,Below 50000,own,Bachelor of Design (B. Design)
+9/14/2021 14:18:114,Arachelvi,Female,Computer Science,81-89,Programming,Computer,Science,50000-80000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:115,Arakodi,Female,Commerce with Computer Science,81-89,Communication Skills in English,Marketing,Arts,100000-200000,own,BA in Economics
+9/14/2021 14:18:116,Aralai,Female,Accounts,71-80,Communication Skills in English,Marketing,Arts,200000-300000,parent's wish,BA in Economics
+9/14/2021 14:18:117,Aramagal,Female,Bio- Maths,71-80,Communication Skills in English,Science,Science,80000-100000,own,BPharma- Bachelor of Pharmacy
+9/14/2021 14:18:118,Aramoli,Female,Commerce with Computer Science,71-80,Programming,Business & Finance,Engineering,50000-80000,parent's wish,B.Tech. - Information Technology
+9/14/2021 14:18:119,Aranya,Female,Accounts,90-100,Communication Skills in English,Business & Finance,Arts,100000-200000,own,BA in Economics
+9/14/2021 14:18:120,Arasi,Female,Computer Science,81-89,Programming,Computer,Engineering,200000-300000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:121,Aravaani,Female,Vocational,81-89,Communication Skills in English,Mathematics,Science,Below 50000,own,B.Sc. Mathematics
+9/14/2021 14:18:122,Arivai,Female,Pure Commerce,61-70,Time Management,Marketing,Arts,50000-80000,parent's wish,BA in Economics
+9/14/2021 14:18:123,Arivalagi,Female,Accounts,81-89,Communication Skills in English,Marketing,Arts,50000-80000,own,BA in Economics
+9/14/2021 14:18:124,Arivarasi,Female,Vocational,81-89,Designing,Photography,Arts,Below 50000,own,Bachelor of Design (B. Design)
+9/14/2021 14:18:125,Arivoli,Female,Computer Science,81-89,Programming,Computer,Science,80000-100000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:126,ArivuChudar,Female,Commerce with Computer Science,81-89,Communication Skills in English,Marketing,Arts,Below 50000,own,BA in Economics
+9/14/2021 14:18:127,Arivudai,Female,Accounts,71-80,Communication Skills in English,Marketing,Arts,Below 50000,parent's wish,BA in Economics
+9/14/2021 14:18:128,ArivudaiNayaki,Female,Bio- Maths,90-100,Communication Skills in English,Science,Science,50000-80000,parent's wish,BPharma- Bachelor of Pharmacy
+9/14/2021 14:18:129,ArivuMalar,Female,Bio- Maths,81-89,Communication Skills in English,Marketing,Arts,100000-200000,own,BA in Economics
+9/14/2021 14:18:130,ArivuMani,Female,Pure Commerce,71-80,Problem Solving,Business & Finance,Arts,300000-500000,parent's wish,BA in Economics
+9/14/2021 14:18:131,Arkali,Female,Bio- Maths,71-80,Communication Skills in English,Science,Science,100000-200000,own,B.Sc. Mathematics
+9/14/2021 14:18:132,Arthi,Female,Computer Science,50-60,Programming,Mathematics,Science,Below 50000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:133,Arul,Female,Bio- Maths,61-70,Communication Skills in English,Mathematics,Science,Above 500000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:134,Arulammal,Female,Pure science,61-70,Communication Skills in English,Medical,Science,80000-100000,own,B.Sc- Nursing
+9/14/2021 14:18:135,Arularasi,Female,Commerce with Computer Science,61-70,Problem Solving,Computer,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:136,ArulChelvi,Female,Accounts,71-80,Communication Skills in English,Business & Finance,Arts,100000-200000,parent's wish,BBS- Bachelor of Business Studies
+9/14/2021 14:18:137,ArulDevi,Female,Computer Science,61-70,Communication Skills in English,Electrical equipment,Engineering,100000-200000,own,B.E. - Electronics and Communication Engineering
+9/14/2021 14:18:138,ArulMaari,Female,Bio- Maths,81-89,Aptitude,Mathematics,Science,Below 50000,parent's wish,B.E. - Electronics and Communication Engineering
+9/14/2021 14:18:139,ArulMoli,Female,Computer Science,71-80,Programming,Computer,Engineering,50000-80000,own,B.Sc. Mathematics
+9/14/2021 14:18:140,ArulNangai,Female,Accounts,61-70,Communication Skills in English,Marketing,Arts,80000-100000,own,B.Tech. - Information Technology
+9/14/2021 14:18:141,ArulVadivu,Female,Pure Commerce,61-70,Time Management,Marketing,Arts,80000-100000,parent's wish,BBA- Bachelor of Business Administration
+9/14/2021 14:18:142,ArulVili,Female,Computer Science,61-70,Programming,Mathematics,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:143,Arumai,Female,Bio- Maths,50-60,Communication Skills in English,Mathematics,Science,300000-500000,own,B.Sc. Mathematics
+9/14/2021 14:18:144,ArumaiChelvi,Female,Bio- Maths,61-70,Programming,Computer,Arts,50000-80000,own,B.sc. computer science
+9/14/2021 14:18:145,ArutChelvi,Female,Computer Science,90-100,Communication Skills in English,Politics,Science,100000-200000,own,B.Sc. Mathematics
+9/14/2021 14:18:146,Arutpa,Female,Bio- Maths,71-80,Communication Skills in English,Science,Arts,100000-200000,own,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:147,Athera,Female,Bio- Maths,71-80,Time Management,Animals,Engineering,50000-80000,own,B.E. - Bio Medical Engineering
+9/14/2021 14:18:148,Athipoo,Female,Computer Science,71-80,Problem Solving,Editing,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:149,Athira,Female,Bio- Maths,71-80,Time Management,Science,Science,80000-100000,own,B.Sc. – Nutrition & Dietetics
+9/14/2021 14:18:150,Atpudham,Female,Bio- Maths,81-89,Time Management,Editing,Science,200000-300000,own,B.Sc. Chemistry
+9/14/2021 14:18:151,Avini,Female,Computer Science,61-70,Sports,Business & Finance,Science,80000-100000,own,B. Sc. Computer Science
+9/14/2021 14:18:152,Avvai,Female,Computer Science,71-80,Problem Solving,Computer,Science,50000-80000,own,B. Sc. Computer Science
+9/14/2021 14:18:153,Ayini,Female,Computer Science,50-60,Programming,Editing,Science,50000-80000,own,B. Sc. Computer Science
+9/14/2021 14:18:154,Baani,Female,Computer Science,81-89,Problem Solving,Computer,Science,Below 50000,own,B. Sc. Computer Science
+9/14/2021 14:18:155,Baasima,Female,Computer Science,71-80,Programming,Computer,Science,80000-100000,own,B. Sc. Computer Science
+9/14/2021 14:18:156,Babay,Female,Computer Science,61-70,Programming,Computer,Engineering,80000-100000,parent's wish,B.Tech. - Information Technology
+9/14/2021 14:18:157,Baheera,Female,Bio- Maths,50-60,Communication Skills in English,Photography,Arts,100000-200000,own,BJMC- Bachelor of Journalism and Mass Communication
+9/14/2021 14:18:158,Baidehi,Female,Pure Commerce,61-70,Time Management,Marketing,Arts,100000-200000,own,BBA- Bachelor of Business Administration
+9/14/2021 14:18:159,Baijayanthi,Female,Zoology,81-89,Listening,Animals,Science,50000-80000,parent's wish,B. Sc. Zoology
+9/14/2021 14:18:160,Bairavi,Female,Computer Science,90-100,Time Management,Computer,Arts,100000-200000,own,BMS- Bachelor of Management Science
+9/14/2021 14:18:161,Baisakhi,Female,Bio- Maths,50-60,Problem Solving,Science,Science,100000-200000,own,B.Sc.- Physics
+9/14/2021 14:18:162,Baishali,Female,Accounts,71-80,Time Management,Reading novel,Arts,80000-100000,own,BSW- Bachelor of Social Work
+9/14/2021 14:18:163,Bala,Female,Accounts,71-80,Time Management,Business & Finance,Arts,80000-100000,own,BFA- Bachelor of Fine Arts
+9/14/2021 14:18:164,Balamani,Female,Accounts,71-80,Time Management,Business & Finance,Arts,200000-300000,own,BFA- Bachelor of Fine Arts
+9/14/2021 14:18:165,Ballari,Female,Computer Science,71-80,Problem Solving,Science,Engineering,200000-300000,own,B.Tech. - Artificial Intelligence & Data Science
+9/14/2021 14:18:166,Balqis,Female,Bio- Maths,71-80,Communication Skills in English,Electrical equipment,Engineering,50000-80000,parent's wish,B.E. - Electrical and Electronics Engineering
+9/14/2021 14:18:167,Bandana,Female,Bio- Maths,71-80,Aptitude,Mathematics,Engineering,50000-80000,own,B.E. - Mechanical Engineering
+9/14/2021 14:18:168,Bandhavi,Female,Computer Science,71-80,Communication Skills in English,Photography,Science,Below 50000,own,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:169,Bandini,Female,Computer Science,71-80,Programming,Computer,Science,Below 50000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:170,Banhi,Female,Bio- Math's,90-100,Problem Solving,Chemicals,Science,50000-80000,own,B.Sc. Chemistry
+9/14/2021 14:18:171,Banhishikha,Female,Computer Science,71-80,Programming,Computer,Science,100000-200000,own,B. Sc. Computer Science
+9/14/2021 14:18:172,Banita,Female,Bio- Math's,71-80,Aptitude,Mathematics,Science,200000-300000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:173,Anbalagi,Female,Computer Science,81-89,Programming,Computer,Science,200000-300000,own,B. Sc. Computer Science
+9/14/2021 14:18:174,Anbarasi,Female,Bio- Math's,81-89,Aptitude,Mathematics,Science,200000-300000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:175,Anbaruvi,Female,Accounts,71-80,Time Management,Business & Finance,Arts,50000-80000,own,Bachelor of commerce
+9/14/2021 14:18:176,Anbini,Female,Bio- Math's,81-89,Programming,Computer,Engineering,50000-80000,parent's wish,B.E. - Computer Science and Engineering
+9/14/2021 14:18:177,Anbu,Female,Accounts,71-80,Problem Solving,Mathematics,Arts,Below 50000,own,BBA- Bachelor of Business Administration
+9/14/2021 14:18:178,Anbulam,Female,Accounts,71-80,Problem Solving,Business & Finance,Arts,Below 50000,own,BBS- Bachelor of Business Studies
+9/14/2021 14:18:179,Anbumani,Female,Accounts,81-89,Communication Skills in English,Reading novel,Arts,Below 50000,own,BBA- Bachelor of Business Administration
+9/14/2021 14:18:180,Anbumoli,Female,Computer Science,81-89,Listening,Reading novel,Arts,Below 50000,parent's wish,B.Sc.- Physics
+9/14/2021 14:18:181,AnbuValli,Female,Bio- Math's,71-80,Aptitude,Computer,Engineering,50000-80000,own,B.E. - Electronics and Communication Engineering
+9/14/2021 14:18:182,Angai,Female,Computer Science,81-89,Time Management,Computer,Science,100000-200000,own,B.Sc.- Information Technology
+9/14/2021 14:18:183,AngayarKanni,Female,Computer Science,90-100,Programming,Computer,Science,200000-300000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:184,Anicham,Female,Bio- Math's,81-89,Problem Solving,Mathematics,Science,80000-100000,own,B.Sc. Mathematics
+9/14/2021 14:18:185,Animalar,Female,Bio- Math's,71-80,Communication Skills in English,Reading novel,Arts,50000-80000,parent's wish,BA in english
+9/14/2021 14:18:186,Annam,Female,Bio- Math's,71-80,Communication Skills in English,Chemicals,Engineering,100000-200000,parent's wish,B.E. - Bio Medical Engineering
+9/14/2021 14:18:187,AnnaMayil,Female,Computer Science,71-80,Problem Solving,Computer,Science,200000-300000,own,B. Sc. Computer Science
+9/14/2021 14:18:188,Annammal,Female,Vocational,81-89,Listening,Politics,Arts,Below 50000,parent's wish,BA in History
+9/14/2021 14:18:189,Anpu,Male,Bio- Maths,81-89,Listening,Politics,Arts,50000-80000,own,Bachelor of Performing Arts
+9/14/2021 14:18:190,Arasu,Male,Bio- Maths,81-89,Time Management,Marketing,Engineering,50000-80000,parent's wish,B.E. - Mechanical Engineering
+9/14/2021 14:18:191,Arivalagan,Male,Bio- Maths,71-80,Programming,Computer,Arts,Below 50000,parent's wish,B.sc. computer science
+9/14/2021 14:18:192,Arivolli,Male,Computer Science,71-80,Communication Skills in English,Politics,Science,80000-100000,own,B.Sc. Mathematics
+9/14/2021 14:18:193,Arivumadhi,Male,Bio- Maths,71-80,Communication Skills in English,Science,Arts,Below 50000,own,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:194,Arun,Male,Bio- Maths,71-80,Listening,Business & Finance,Science,Below 50000,parent's wish,B.Sc.- Physics
+9/14/2021 14:18:195,Arungedan,Male,Bio- Maths,61-70,Listening,Plants,Science,50000-80000,own,B.Sc. – Nutrition & Dietetics
+9/14/2021 14:18:196,Arvalan,Male,Commerce with Computer Science,61-70,Listening,Reading novel,Arts,100000-200000,parent's wish,BSW- Bachelor of Social Work
+9/14/2021 14:18:197,Arvindswamy,Male,Accounts,71-80,Communication Skills in English,Animals,Science,300000-500000,own,B. Sc. Zoology
+9/14/2021 14:18:198,Ashok,Male,Bio- Maths,90-100,Designing,Animation,Engineering,100000-200000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:199,Ayngaran,Male,Vocational,50-60,Listening,Politics,Arts,Below 50000,parent's wish,BA in History
+9/14/2021 14:18:200,Ayyappan,Male,Bio- Maths,50-60,Communication Skills in English,Chemicals,Engineering,Above 500000,own,B.E. - Bio Medical Engineering
+9/14/2021 14:18:201,Azhagu,Male,Computer Science,61-70,Programming,Science,Engineering,80000-100000,own,B.Tech. - Information Technology
+9/14/2021 14:18:202,Bagira,Male,Commerce with Computer Science,81-89,Programming,Marketing,Science,80000-100000,own,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:203,Bahubali,Male,Bio- Maths,71-80,Communication Skills in English,Science,Science,100000-200000,own,B.Sc- Nursing
+9/14/2021 14:18:204,Bahuleya,Male,Bio- Maths,81-89,Communication Skills in English,Science,Science,100000-200000,own,B.Sc- Nursing
+9/14/2021 14:18:205,Bajrang,Male,Vocational,81-89,Communication Skills in English,Editing,Arts,Below 50000,own,Bachelor of Design (B. Design)
+9/14/2021 14:18:206,Balaaditya,Male,Accounts,81-89,Problem Solving,Marketing,Science,50000-80000,own,B. Sc. Statistics
+9/14/2021 14:18:207,Aayushman,Male,Computer Science,81-89,Programming,Computer,Science,80000-100000,own,B.Sc.- Information Technology
+9/14/2021 14:18:208,Adalarachan,Male,Pure Commerce,81-89,Time Management,Marketing,Engineering,80000-100000,parent's wish,B.E. - Computer Science and Engineering
+9/14/2021 14:18:209,Adalarasen,Male,Bio- Maths,81-89,Communication Skills in English,Science,Science,80000-100000,own,BPharma- Bachelor of Pharmacy
+9/14/2021 14:18:210,Adaleru,Male,Commerce with Computer Science,81-89,Time Management,Business & Finance,Arts,300000-500000,parent's wish,BA in Economics
+9/14/2021 14:18:211,Adiban,Male,Accounts,81-89,Communication Skills in English,Marketing,Arts,50000-80000,own,BBS- Bachelor of Business Studies
+9/14/2021 14:18:212,Adithiya,Male,Vocational,61-70,Communication Skills in English,Electrical equipment,Engineering,100000-200000,parent's wish,B.E. - Electrical and Electronics Engineering
+9/14/2021 14:18:213,Adiyaman,Male,Pure Commerce,90-100,Problem Solving,Politics,Arts,100000-200000,own,Integrated Law Course- BA + LL.B
+9/14/2021 14:18:214,Adwin,Male,Vocational,61-70,Problem Solving,Politics,Arts,50000-80000,own,BJMC- Bachelor of Journalism and Mass Communication
+9/14/2021 14:18:215,Agathiyen,Male,Computer Science,71-80,Programming,Computer,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:216,Agavoli,Male,Bio- Maths,90-100,Communication Skills in English,Plants,Science,80000-100000,parent's wish,B. Arch- Bachelor of Architecture
+9/14/2021 14:18:217,Agilan,Male,Bio- Maths,81-89,Communication Skills in English,Chemicals,Science,200000-300000,own,B.Sc. Chemistry
+9/14/2021 14:18:218,Aishwa,Male,Computer Science,61-70,Problem Solving,Computer,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:219,Ajith,Male,Commerce with Computer Science,81-89,Programming,Business & Finance,Engineering,50000-80000,parent's wish,B.Tech. - Information Technology
+9/14/2021 14:18:220,Aksharan,Male,Accounts,71-80,Communication Skills in English,Business & Finance,Arts,50000-80000,own,BA in Economics
+9/14/2021 14:18:221,Alagen,Male,Computer Science,71-80,Programming,Computer,Engineering,Below 50000,parent's wish,B.E. - Computer Science and Engineering
+9/14/2021 14:18:222,Amaradhevan,Male,Vocational,81-89,Communication Skills in English,Mathematics,Science,80000-100000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:223,Amaran,Male,Pure Commerce,81-89,Time Management,Marketing,Arts,80000-100000,own,BA in Economics
+9/14/2021 14:18:224,Amaranayagan,Male,Accounts,71-80,Communication Skills in English,Marketing,Arts,100000-200000,parent's wish,BA in Economics
+9/14/2021 14:18:225,Amarthevan,Male,Vocational,81-89,Designing,Photography,Arts,100000-200000,own,Bachelor of Design (B. Design)
+9/14/2021 14:18:226,Amirtharasan,Male,Computer Science,90-100,Programming,Computer,Science,Above 500000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:227,Amsan,Male,Commerce with Computer Science,81-89,Communication Skills in English,Marketing,Arts,Above 500000,parent's wish,BA in Economics
+9/14/2021 14:18:228,Amudhan,Male,Accounts,71-80,Communication Skills in English,Marketing,Arts,50000-80000,own,BA in Economics
+9/14/2021 14:18:229,Amuthan,Male,Bio- Maths,71-80,Communication Skills in English,Science,Science,50000-80000,own,BPharma- Bachelor of Pharmacy
+9/14/2021 14:18:230,Anandhu,Male,Bio- Maths,71-80,Communication Skills in English,Marketing,Arts,200000-300000,parent's wish,BA in Economics
+9/14/2021 14:18:231,Ananth,Male,Pure Commerce,81-89,Problem Solving,Business & Finance,Arts,80000-100000,own,BA in Economics
+9/14/2021 14:18:232,Anbarasan,Male,Bio- Maths,81-89,Communication Skills in English,Science,Science,Below 50000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:233,Anbazhagan,Male,Computer Science,81-89,Programming,Mathematics,Science,200000-300000,own,B.Sc. Mathematics
+9/14/2021 14:18:234,Anbumathi,Male,Bio- Maths,71-80,Communication Skills in English,Mathematics,Science,80000-100000,own,B.Sc. Mathematics
+9/14/2021 14:18:235,Anbushelvan,Male,Pure science,71-80,Communication Skills in English,Medical,Science,80000-100000,parent's wish,B.Sc- Nursing
+9/14/2021 14:18:236,Anirudh,Male,Commerce with Computer Science,71-80,Problem Solving,Computer,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:237,Anjay,Male,Accounts,71-80,Communication Skills in English,Business & Finance,Arts,100000-200000,own,BBS- Bachelor of Business Studies
+9/14/2021 14:18:238,Anparasan,Male,Computer Science,61-70,Communication Skills in English,Electrical equipment,Engineering,200000-300000,own,B.E. - Electronics and Communication Engineering
+9/14/2021 14:18:239,Anpu,Male,Bio- Maths,61-70,Aptitude,Mathematics,Science,80000-100000,own,B.E. - Electronics and Communication Engineering
+9/14/2021 14:18:240,Arasu,Male,Computer Science,71-80,Programming,Computer,Engineering,50000-80000,own,B.Sc. Mathematics
+9/14/2021 14:18:241,Arivalagan,Male,Accounts,90-100,Communication Skills in English,Marketing,Arts,100000-200000,own,B.Tech. - Information Technology
+9/14/2021 14:18:242,Arivolli,Male,Pure Commerce,81-89,Time Management,Marketing,Arts,200000-300000,own,BBA- Bachelor of Business Administration
+9/14/2021 14:18:243,Arivumadhi,Male,Computer Science,81-89,Programming,Mathematics,Engineering,Below 50000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:244,Arun,Male,Bio- Maths,71-80,Communication Skills in English,Mathematics,Science,50000-80000,own,B.Sc. Mathematics
+9/14/2021 14:18:245,Arungedan,Male,Bio- Maths,81-89,Programming,Computer,Arts,50000-80000,parent's wish,B.sc. computer science
+9/14/2021 14:18:246,Arvalan,Male,Computer Science,71-80,Communication Skills in English,Politics,Science,Below 50000,own,B.Sc. Mathematics
+9/14/2021 14:18:247,Arvindswamy,Male,Bio- Maths,71-80,Communication Skills in English,Science,Arts,80000-100000,parent's wish,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:248,Ashok,Male,Bio- Maths,81-89,Time Management,Animals,Engineering,Below 50000,own,B.E. - Bio Medical Engineering
+9/14/2021 14:18:249,Ayngaran,Male,Computer Science,81-89,Problem Solving,Editing,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:250,Ayyappan,Male,Bio- Maths,71-80,Time Management,Science,Science,50000-80000,own,B.Sc. – Nutrition & Dietetics
+9/14/2021 14:18:251,Azhagu,Male,Bio- Maths,81-89,Time Management,Editing,Science,100000-200000,parent's wish,B.Sc. Chemistry
+9/14/2021 14:18:252,Bagira,Male,Computer Science,90-100,Sports,Business & Finance,Science,200000-300000,own,B. Sc. Computer Science
+9/14/2021 14:18:253,Bahubali,Male,Computer Science,81-89,Problem Solving,Computer,Science,Below 50000,own,B. Sc. Computer Science
+9/14/2021 14:18:254,Bahuleya,Male,Computer Science,71-80,Programming,Editing,Science,50000-80000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:255,Bajrang,Male,Computer Science,71-80,Problem Solving,Computer,Science,50000-80000,own,B. Sc. Computer Science
+9/14/2021 14:18:256,Balaaditya,Male,Computer Science,71-80,Programming,Computer,Science,80000-100000,parent's wish,B. Sc. Computer Science
+9/14/2021 14:18:257,Balaark,Male,Computer Science,81-89,Programming,Computer,Engineering,50000-80000,parent's wish,B.Tech. - Information Technology
+9/14/2021 14:18:258,Balachandar,Male,Bio- Maths,81-89,Communication Skills in English,Photography,Arts,100000-200000,own,BJMC- Bachelor of Journalism and Mass Communication
+9/14/2021 14:18:259,Balachandra,Male,Pure Commerce,81-89,Time Management,Marketing,Arts,200000-300000,parent's wish,BBA- Bachelor of Business Administration
+9/14/2021 14:18:260,Baladhi,Male,Computer Science,71-80,Programming,Computer,Engineering,50000-80000,parent's wish,B.Sc. Mathematics
+9/14/2021 14:18:261,Balagovind,Male,Accounts,71-80,Communication Skills in English,Marketing,Arts,50000-80000,own,B.Tech. - Information Technology
+9/14/2021 14:18:262,Balakrishna,Male,Pure Commerce,81-89,Time Management,Marketing,Arts,Below 50000,parent's wish,BBA- Bachelor of Business Administration
+9/14/2021 14:18:263,BalaKumar,Male,Computer Science,81-89,Programming,Mathematics,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:264,Balambu,Male,Bio- Maths,71-80,Communication Skills in English,Mathematics,Science,Below 50000,own,B.Sc. Mathematics
+9/14/2021 14:18:265,BalaMurugan,Male,Bio- Maths,81-89,Designing,Plants,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:266,Balan,Male,Computer Science,71-80,Problem Solving,Computer,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:267,Balaram,Male,Bio- Maths,71-80,Communication Skills in English,Mathematics,Arts,50000-80000,parent's wish,Bachelor of Performing Arts
+9/14/2021 14:18:268,BalaSingam,Male,Computer Science,81-89,Problem Solving,Computer,Engineering,50000-80000,own,B.Tech. - Information Technology
+9/14/2021 14:18:269,BalaSubramanian,Male,Accounts,81-89,Time Management,Marketing,Arts,100000-200000,own,BBA- Bachelor of Business Administration
+9/14/2021 14:18:270,Balavan,Male,Commerce with Computer Science,71-80,Programming,Computer,Science,50000-80000,own,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:271,BalaVenkatan,Male,Computer Science,71-80,Aptitude,Chemicals,Science,80000-100000,own,B.Sc. Chemistry
+9/14/2021 14:18:272,Balgopal,Male,Computer Science,71-80,Programming,Computer,Engineering,50000-80000,own,B.E. - Electronics and Communication Engineering
+9/14/2021 14:18:273,Balgovind,Male,Bio- Maths,90-100,Time Management,Photography,Arts,Below 50000,own,Integrated Law Course- BA + LL.B
+9/14/2021 14:18:274,Balvindra,Male,Computer Science,81-89,Listening,Photography,Engineering,50000-80000,own,B.E. - Electronics and Communication Engineering
+9/14/2021 14:18:275,Balwin,Male,Bio- Maths,81-89,Listening,Politics,Arts,50000-80000,own,Bachelor of Performing Arts
+9/14/2021 14:18:276,Banaj,Male,Bio- Maths,61-70,Time Management,Marketing,Engineering,Below 50000,own,B.E. - Mechanical Engineering
+9/14/2021 14:18:277,Banbihari,Male,Bio- Maths,81-89,Programming,Computer,Arts,Below 50000,own,B.sc. computer science
+9/14/2021 14:18:278,Bandhu,Male,Computer Science,81-89,Communication Skills in English,Politics,Science,Below 50000,own,B.Sc. Mathematics
+9/14/2021 14:18:279,Bandhul,Male,Bio- Maths,81-89,Communication Skills in English,Science,Arts,Below 50000,own,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:280,Bandish,Male,Bio- Maths,81-89,Listening,Business & Finance,Science,50000-80000,own,B.Sc.- Physics
+9/14/2021 14:18:281,Baneet,Male,Bio- Maths,71-80,Listening,Plants,Science,Below 50000,own,B.Sc. – Nutrition & Dietetics
+9/14/2021 14:18:282,Banke,Male,Commerce with Computer Science,90-100,Listening,Reading novel,Arts,80000-100000,parent's wish,BSW- Bachelor of Social Work
+9/14/2021 14:18:283,Bankebihari,Male,Accounts,81-89,Communication Skills in English,Animals,Science,Below 50000,parent's wish,B. Sc. Zoology
+9/14/2021 14:18:284,Bankim,Male,Bio- Maths,71-80,Designing,Animation,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:285,Bankimchandra,Male,Vocational,71-80,Listening,Politics,Arts,50000-80000,own,BA in History
+9/14/2021 14:18:286,Banshi,Male,Bio- Maths,50-60,Communication Skills in English,Chemicals,Engineering,100000-200000,own,B.E. - Bio Medical Engineering
+9/14/2021 14:18:287,Bansilal,Male,Computer Science,61-70,Programming,Science,Engineering,200000-300000,own,B.Tech. - Information Technology
+9/14/2021 14:18:288,Bhavna,Female,Commerce with Computer Science,61-70,Programming,Marketing,Science,80000-100000,own,BCA- Bachelor of Computer Applications
+9/14/2021 14:18:289,Bhavukta,Female,Bio- Maths,61-70,Communication Skills in English,Science,Science,Below 50000,own,B.Sc- Nursing
+9/14/2021 14:18:290,Bhavyashree,Female,Bio- Maths,50-60,Communication Skills in English,Science,Science,100000-200000,own,B.Sc- Nursing
+9/14/2021 14:18:291,Bhini,Female,Vocational,50-60,Communication Skills in English,Editing,Arts,Below 50000,own,Bachelor of Design (B. Design)
+9/14/2021 14:18:292,Bhooma,Female,Accounts,61-70,Problem Solving,Marketing,Science,Above 500000,own,B. Sc. Statistics
+9/14/2021 14:18:293,Bhoomi,Female,Computer Science,81-89,Programming,Computer,Science,80000-100000,parent's wish,B.Sc.- Information Technology
+9/14/2021 14:18:294,Bhoomika,Female,Pure Commerce,71-80,Time Management,Marketing,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:295,Bhrithi,Female,Bio- Maths,81-89,Communication Skills in English,Science,Science,100000-200000,own,BPharma- Bachelor of Pharmacy
+9/14/2021 14:18:296,Bhupali,Female,Commerce with Computer Science,81-89,Time Management,Business & Finance,Arts,100000-200000,parent's wish,BA in Economics
+9/14/2021 14:18:297,Bhuvi,Female,Accounts,81-89,Communication Skills in English,Marketing,Arts,Below 50000,own,BBS- Bachelor of Business Studies
+9/14/2021 14:18:298,Bhuvika,Female,Vocational,81-89,Communication Skills in English,Electrical equipment,Engineering,50000-80000,own,B.E. - Electrical and Electronics Engineering
+9/14/2021 14:18:299,Bibha,Female,Pure Commerce,81-89,Problem Solving,Politics,Arts,80000-100000,own,Integrated Law Course- BA + LL.B
+9/14/2021 14:18:300,Bidya,Female,Vocational,81-89,Problem Solving,Politics,Arts,80000-100000,own,BJMC- Bachelor of Journalism and Mass Communication
+9/14/2021 14:18:301,Bilvani,Female,Computer Science,81-89,Programming,Computer,Engineering,80000-100000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:302,Bimala,Female,Bio- Maths,81-89,Communication Skills in English,Plants,Science,300000-500000,own,B. Arch- Bachelor of Architecture
+9/14/2021 14:18:303,Bindhiya,Female,Bio- Maths,61-70,Communication Skills in English,Chemicals,Science,50000-80000,own,B.Sc. Chemistry
+9/14/2021 14:18:304,Binu,Female,Computer Science,90-100,Problem Solving,Computer,Engineering,100000-200000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:305,Bhanuprasad,Male,Commerce with Computer Science,61-70,Programming,Business & Finance,Engineering,100000-200000,own,B.Tech. - Information Technology
+9/14/2021 14:18:306,Bhargyaraj,Male,Accounts,71-80,Communication Skills in English,Business & Finance,Arts,50000-80000,own,BA in Economics
+9/14/2021 14:18:307,Bhartesh,Male,Computer Science,90-100,Programming,Computer,Engineering,50000-80000,own,B.E. - Computer Science and Engineering
+9/14/2021 14:18:308,Bhasvan,Male,Vocational,81-89,Communication Skills in English,Mathematics,Science,80000-100000,own,B.Sc. Mathematics
+9/14/2021 14:18:309,Bhaswar,Male,Pure Commerce,61-70,Time Management,Marketing,Arts,200000-300000,own,BA in Economics
+9/14/2021 14:18:310,Bhaswath,Male,Accounts,81-89,Communication Skills in English,Marketing,Arts,80000-100000,own,BA in Economics
+9/14/2021 14:18:311,Bhaumik,Male,Vocational,71-80,Designing,Photography,Arts,50000-80000,parent's wish,Bachelor of Design (B. Design)
+9/14/2021 14:18:312,Bhagirath,Male,Computer Science,71-80,Programming,Computer,Science,80000-100000,own,B. Sc. Computer Science
+9/14/2021 14:18:313,Bhagyaraj,Male,Commerce with Computer Science,81-89,Communication Skills in English,Marketing,Arts,50000-80000,parent's wish,BA in Economics
+9/14/2021 14:18:314,Bhajan,Male,Accounts,61-70,Communication Skills in English,Marketing,Arts,50000-80000,own,BA in Economics
+9/14/2021 14:18:315,Bhandhavya,Male,Bio- Maths,90-100,Communication Skills in English,Science,Science,100000-200000,parent's wish,BPharma- Bachelor of Pharmacy
